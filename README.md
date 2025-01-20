@@ -19,7 +19,7 @@ Demonstrar como utilizar duas ferramentas de scraping para lidar com páginas es
 
 ## 📂 Estrutura do Projeto
 - `data/`: Contém os dados extraídos.
-- `scripts/`: Scripts principais, incluindo:
+- `scripts/`: Scripts principais que contém o processo de raspagem de dados dos sites citados.
 - `requirements.txt`: Dependências do projeto.
 
 ---
